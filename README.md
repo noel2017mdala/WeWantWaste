@@ -4,7 +4,7 @@ This project is a front-end redesign challenge, focused on the **skip selection*
 
 ## 🚀 Live Demo
 
-[Click here to view the demo](https://your-sandbox-or-vercel-link.com)
+[Click here to view the demo](https://we-want-waste-orpin.vercel.app/)
 
 ## 📸 Original vs Redesigned
 
@@ -76,4 +76,4 @@ Code is modular and organized for scalability
 🙌 Author
 Abel Noel M'dala
 
-Your [LinkedIn](https://www.linkedin.com/in/abel-mdala/) • [GitHub](https://github.com/noel2017mdala/)
+[LinkedIn](https://www.linkedin.com/in/abel-mdala/) • [GitHub](https://github.com/noel2017mdala/)
