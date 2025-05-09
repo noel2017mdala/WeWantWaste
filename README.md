@@ -18,7 +18,6 @@ This project is a front-end redesign challenge, focused on the **skip selection*
 - **React**
 - **TypeScript**
 - **Tailwind CSS**
-- **Axios** (for API calls)
 
 ---
 
