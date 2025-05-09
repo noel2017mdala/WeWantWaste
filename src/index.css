@@ -1,0 +1,5 @@
+@import "tailwindcss";
+/* @theme {
+ 'Consolas', 'Liberation Mono', 'Courier New', 'monospace';
+} */
+@custom-variant dark (&:where(.dark, .dark *));
