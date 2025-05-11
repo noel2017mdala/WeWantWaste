@@ -55,16 +55,6 @@ const FilterDrawer: React.FC<FilterDrawerProps> = ({
     }));
   }, [searchParams]);
 
-  const handleReset = () => {
-    setFilters({
-      size: "",
-      hirePeriod: "",
-      allowsHeavyWaste: false,
-      allowedOnRoad: false,
-      maxPrice: 1000,
-    });
-  };
-
   const handleChange = (
     e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>
   ) => {
